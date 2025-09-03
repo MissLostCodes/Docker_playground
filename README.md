@@ -38,6 +38,9 @@ docker run image_name -> converts image to container
 <img width="1773" height="934" alt="image" src="https://github.com/user-attachments/assets/9ebcdff4-4d46-46ed-9d76-967e44986c97" />
 
 
+### Testing with mongo and mongo-express 
+
+<img width="1896" height="585" alt="image" src="https://github.com/user-attachments/assets/92df4558-723a-40a1-8f6c-98b89f7bf2d1" />
 
 
 
